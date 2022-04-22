@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Banking Application with Express and MongoDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project simulates a banking application in which a client can create a new account, and manage his balance with deposit and withdraw operations.
+
+## Installation guidelines
+
+In order to reproduce this project locally:
+
+### Clone this project
+
+You can clone this project using the terminal or Github Desktop to a local folder
+
+### Run npm init
+
+Enter to the folder project in the terminal and install all the dependencies
+
+### Run npm start
+
+With this command you can run a local server on port 3000
 
 ## Available Scripts
 
