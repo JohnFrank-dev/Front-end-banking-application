@@ -21,7 +21,7 @@ function NavBar() {
               <li className="nav-item">
                 <Link
                   className="nav-link"
-                  to="/"
+                  to="/main"
                   data-bs-toggle="tooltip"
                   data-bs-placement="bottom"
                   title="Main view"
