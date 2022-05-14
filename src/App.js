@@ -14,7 +14,7 @@ const UserContext = React.createContext({
       name: "John Figueroa",
       email: "john@mit.edu",
       password: "secret",
-      balance: 100,
+      balance: 1000,
     },
   ],
 });
